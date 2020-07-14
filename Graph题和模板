@@ -1,2 +1,3 @@
 https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
-里面有各种graph问题的list和模板
+里面有各种graph问题的list和模板 包括dfs bfs dijkstra bellman-ford
+但不包括MST(minimum spanning tree) SCC(strongly connected components)等问题
